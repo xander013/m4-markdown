@@ -1,7 +1,5 @@
 # Exercise-1
 
-As described in [chapter-5](https://info201-s17.github.io/book/introduction-to-git-and-github.html), you should begin by forking this repository, then cloning it to your local machine.
+> There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.
 
-Then, in the space below, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote. When you push your changes back up to GitHub, you will see the rendered markdown file.
-
-See `complete` branch for an example.
+https://www.brainyquote.com/quotes/quotes/j/jiddukrish395484.html?src=t_book
